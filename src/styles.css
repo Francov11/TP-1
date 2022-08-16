@@ -1,0 +1,85 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-size: 20px;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+
+body{
+    background-color:rgb(243, 232, 232);
+}
+
+#navbar{
+    font-size: larger;
+    color: white;
+    background-color: #1b3039;
+ }
+
+#h5-1{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 27px;
+}
+
+#forms{
+    margin-top: 10%;
+    margin-bottom: 11%;
+}
+
+#form-1{
+    height: auto;
+    margin-left: 500px;
+}
+
+#col-2{
+    margin-left: 50px;
+}
+
+#form-2{
+    width: 100%;
+    height: auto;
+}
+
+
+#first-img{
+    width: 70%;
+    height: 255px;
+}
+#second-img{
+    width: 70%;
+    height: 255px;
+}
+#third-img{
+    width: 70%;
+    height: 255px;
+}
+
+.card{
+    margin-bottom: 20%;
+}
+
+#carousel{
+    margin-bottom: 7%;  
+}
+
+.footer{
+    margin-top: 5%;
+    color: white;
+    background-color: #232F3E;
+}
+
+#footer-2{
+    margin-top: 9%;
+}
+
+#subtotal{
+    margin-right: 20px;
+}
+
+#div-form-1{
+    margin-left: 25%;
+}
+
+label{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 22px;
+}
